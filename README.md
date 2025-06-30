@@ -65,7 +65,7 @@ This repository includes a series of beginner-to-intermediate level data science
 
 ## 🧠 Author
 
-**Your Name**  
+**Mahek Mehta**  
 Data Science Enthusiast | Python Developer | ML & NLP Learner  
 📧 Email: kamsjyo91@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mahek-mehta/  
