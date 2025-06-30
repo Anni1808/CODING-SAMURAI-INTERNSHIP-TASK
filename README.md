@@ -81,15 +81,4 @@ Data Science Enthusiast | Python Developer | ML & NLP Learner
 
 ---
 
-## 📂 Folder Structure
-├── Task 1 Sales Data Analysis.xlsx
-├── Task 2 Linear Regression on Simple Dataset.ipynb
-├── Task 3 Data Analytics_Exploratory Data Analysis (EDA) on Titanic.ipynb
-├── Task 4 Classification_Logistic Regression on the Titanic Dataset.ipynb
-├── Task 5 Time Series Forecasting for Stock Prices.ipynb
-├── Task 6 Sentiment Analysis on Social Media Data.ipynb
-└── README.md
-
----
-
 ## ⭐️ If you found this helpful, give it a star!
