@@ -67,9 +67,8 @@ This repository includes a series of beginner-to-intermediate level data science
 
 **Your Name**  
 Data Science Enthusiast | Python Developer | ML & NLP Learner  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)  
-🔗 GitHub: [your-github](https://github.com/your-username)
+📧 Email: kamsjyo91@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mahek-mehta/  
 
 ---
 
